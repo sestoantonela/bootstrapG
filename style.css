@@ -1,0 +1,24 @@
+td{
+    background-color: rgb(234, 245, 132);
+}
+
+.container{
+    text-align: center;
+}
+
+.table1 {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+.height{
+    height: 50px;
+}
